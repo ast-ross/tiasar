@@ -10,9 +10,9 @@
     "jade": "*"
   },
   "devDependencies": {
-      "mocha": "1.7.0",
-      "should": "1.2.1",
-      "supertest": "0.4.0"
+      "mocha": "1.14.x",
+      "should": "2.0.x",
+      "supertest": "0.8.x"
   },
   "engines": {
     "node": "0.8.x",
