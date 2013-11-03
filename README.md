@@ -1,4 +1,0 @@
-tiasar
-======
-
-tiasar.kz
